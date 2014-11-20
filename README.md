@@ -1,5 +1,4 @@
 canvases
 ========
 
-Lean and Business Model Canvas templates in HTML,
-for tracking your business model in any textual VCS.
+Version-control your business model with these HTML templates.
